@@ -1,0 +1,11 @@
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environment and generated files
+.venv/
+/logs/
+.DS_Store
